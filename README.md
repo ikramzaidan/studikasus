@@ -1,10 +1,10 @@
-# Instalation
-## Prerequisite
+# Instalasi
+## Prasyarat
 1. PHP 8.1
 2. XAMPP (MySQL)
 3. Node.js LTS (https://nodejs.org/en/download)
 
-## Serve the application locally
+## Menjalankan aplikasi secara lokal
 
 1. Clone or download this repository.
 2. Install or update composer.
